@@ -23,7 +23,7 @@ Construção dos gráficos
 
 Usei Recharts para criar gráficos interativos a partir dos dados tratados.
 
-Layout e páginas de exibição
+Também criei paginas de exibição a partir do Layout dado
 
 Criei todo o design com TailwindCSS e shadcn/ui, incluindo Dashboard, Sidebar responsiva, Footer, Header e páginas (IPP, INPC, IPCA, Calendário e Sobre Nós).
 
