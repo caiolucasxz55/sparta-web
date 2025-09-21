@@ -10,7 +10,7 @@ export default function Footer() {
                 <div className="flex flex-col items-start space-y-4">
 
                     <Image
-                        src="/sparta-logo.png"
+                        src="/sparta-home.png"
                         alt="Logo sparta"
                         width={40}
                         height={40}
